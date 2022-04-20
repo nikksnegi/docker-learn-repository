@@ -16,6 +16,9 @@ public class SchedulerClass {
 
     private static final Logger log = LoggerFactory.getLogger(SchedulerClass.class);
 
+    /*
+    This is a controller
+     */
     @RequestMapping("/prometheus/run")
     String restController( ) {
         return "I am great and I know it ";
