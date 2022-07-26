@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <source_groups>
+        <source_group_c0a94188-c9d1-4551-8e0c-3ab5e9e1f340>
+            <java_standard>11</java_standard>
+            <maven>
+                <project_file_path>pom.xml</project_file_path>
+                <should_index_tests>0</should_index_tests>
+            </maven>
+            <name>Java Source Group from Maven</name>
+            <source_extensions>
+                <source_extension>.java</source_extension>
+            </source_extensions>
+            <status>enabled</status>
+            <type>Java Source Group from Maven</type>
+        </source_group_c0a94188-c9d1-4551-8e0c-3ab5e9e1f340>
+    </source_groups>
+    <version>8</version>
+</config>
