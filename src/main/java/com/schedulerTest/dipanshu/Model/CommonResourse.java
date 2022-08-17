@@ -14,5 +14,5 @@ public class CommonResourse {
     public static   void incCounter() {
          counter++;
     }
-
+// hello common resourse
 }
